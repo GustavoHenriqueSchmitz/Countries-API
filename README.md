@@ -5,7 +5,7 @@ An API for registering of countries. Where you can register countries with their
 
 ## Used technology
 - Golang
-- Docker
+- Docker-Compose
 - PostgreSQL
 
 ## Installation
@@ -13,7 +13,7 @@ An API for registering of countries. Where you can register countries with their
 ### Project clone
 
 ```
-git clone https://github.com/GustavoHenriqueSchmitz/API-Paises.git
+git clone https://github.com/GustavoHenriqueSchmitz/Countries-API.git
 ```
 
 ### Install Golang V1.18.1 and Docker-Compose
