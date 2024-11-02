@@ -26,8 +26,15 @@ go mod download
 ```
 
 ## Running App
-**1 -** Open a terminal and run in the root directory of the project the command `docker-compose up`  
-**2 -** Open another terminal and run in the root directory of the project the command `go run main.go`
+**1 -** Open a terminal and run in the root directory of the project the command
+```
+docker-compose up
+```  
+
+**2 -** Open another terminal and run in the root directory of the project the command
+```
+go run main.go
+```
 
 ## Author
 **Gustavo Henrique Schmitz**
